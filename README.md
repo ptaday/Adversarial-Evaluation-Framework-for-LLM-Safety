@@ -70,10 +70,11 @@ It enables researchers and developers to continuously improve model robustness t
 
 Clone the repository and install dependencies:
 
+```yaml
 git clone https://github.com/your-username/llm-adversarial-eval.git
 cd llm-adversarial-eval
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -83,8 +84,9 @@ pip install -r requirements.txt
 
 Run the interactive reviewer UI:
 
+```yaml
 streamlit run visualise_app.py
-
+```
 
 Use the interface to:
 
@@ -99,6 +101,7 @@ Use the interface to:
 
 ### CLI Tool
 
+```yaml
 Use the `run_pipeline.py` script for batch processing:
 
 # Apply tagging to raw prompts
@@ -113,6 +116,7 @@ python run_pipeline.py fp_export
 # Generate summary and worst-case tracker
 python run_pipeline.py report
 
+```yaml
 ---
 
 ## Rule Format
