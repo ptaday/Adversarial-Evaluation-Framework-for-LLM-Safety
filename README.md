@@ -116,7 +116,7 @@ python run_pipeline.py fp_export
 # Generate summary and worst-case tracker
 python run_pipeline.py report
 
-```yaml
+```
 ---
 
 ## Rule Format
