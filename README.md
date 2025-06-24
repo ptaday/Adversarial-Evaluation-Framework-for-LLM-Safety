@@ -174,6 +174,8 @@ Each rule includes:
 ## Author
 
 Pushkar Taday
+
+
 Passionate about frontier safety, reliability, and ethical AI systems
 
 GitHub: [@ptaday](https://github.com/ptaday)
