@@ -42,6 +42,7 @@ It enables researchers and developers to continuously improve model robustness t
 ---
 
 ## [Directory Structure](#directory-structure)
+```yaml
 ├── results/
 │   ├── raw/
 │   ├── cli_output/
@@ -61,6 +62,7 @@ It enables researchers and developers to continuously improve model robustness t
 ├── run_pipeline.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
